@@ -30,7 +30,7 @@
             "last_commit": "2026-08-15T10:53:14Z",
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
-            "stars": 4240
+            "stars": 4239
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-10T08:24:56Z",
             "owner": "vitalets",
             "repo": "playwright-bdd",
-            "stars": 759
+            "stars": 762
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 284747964,
             "language": "Python",
-            "last_commit": "2026-08-11T14:45:30Z",
+            "last_commit": "2026-08-19T19:41:03Z",
             "owner": "microsoft",
             "repo": "playwright-pytest",
             "stars": 556
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 276414382,
             "language": "Python",
-            "last_commit": "2026-08-14T00:17:01Z",
+            "last_commit": "2026-08-19T18:13:48Z",
             "owner": "microsoft",
             "repo": "playwright-python",
-            "stars": 14922
+            "stars": 14925
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-17T07:07:56Z",
             "owner": "mxschmitt",
             "repo": "playwright-go",
-            "stars": 3472
+            "stars": 3474
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 1171010355,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:56:42Z",
+            "last_commit": "2026-08-19T22:11:05Z",
             "owner": "saffron-health",
             "repo": "libretto",
             "stars": 877
@@ -357,7 +357,7 @@
             "last_commit": "2026-07-02T11:38:34Z",
             "owner": "testdino-hq",
             "repo": "playwright-skill",
-            "stars": 349
+            "stars": 350
           }
         },
         {
@@ -585,10 +585,10 @@
             "archived": false,
             "id": 1163834030,
             "language": "Python",
-            "last_commit": "2026-08-18T19:37:20Z",
+            "last_commit": "2026-08-19T20:40:28Z",
             "owner": "CloakHQ",
             "repo": "CloakBrowser",
-            "stars": 30381
+            "stars": 30404
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2026-08-18T05:48:16Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13606
+            "stars": 13607
           }
         },
         {
@@ -615,10 +615,10 @@
             "archived": false,
             "id": 1142274728,
             "language": "JavaScript",
-            "last_commit": "2026-08-04T02:43:47Z",
+            "last_commit": "2026-08-19T20:30:53Z",
             "owner": "jo-inc",
             "repo": "camofox-browser",
-            "stars": 8698
+            "stars": 8712
           }
         },
         {
@@ -633,7 +633,7 @@
             "last_commit": "2026-08-18T23:09:02Z",
             "owner": "feder-cr",
             "repo": "invisible_playwright",
-            "stars": 1908
+            "stars": 1911
           }
         },
         {
@@ -645,10 +645,10 @@
             "archived": false,
             "id": 1122548348,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:25:19Z",
+            "last_commit": "2026-08-19T14:39:17Z",
             "owner": "figranium",
             "repo": "figranium",
-            "stars": 516
+            "stars": 540
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-08-10T11:35:00Z",
             "owner": "techinz",
             "repo": "browsers-benchmark",
-            "stars": 379
+            "stars": 378
           }
         },
         {
@@ -846,7 +846,7 @@
             "archived": false,
             "id": 1111609705,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:11:49Z",
+            "last_commit": "2026-08-19T20:58:04Z",
             "owner": "PiwiTests",
             "repo": "platform",
             "stars": 13
@@ -882,10 +882,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:40:56Z",
+            "last_commit": "2026-08-19T22:12:52Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 188925
+            "stars": 188939
           }
         },
         {
@@ -900,7 +900,7 @@
             "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110204
+            "stars": 110212
           }
         },
         {
@@ -915,7 +915,7 @@
             "last_commit": "2026-08-19T11:55:31Z",
             "owner": "xtermjs",
             "repo": "xterm.js",
-            "stars": 21067
+            "stars": 21070
           }
         },
         {
@@ -953,7 +953,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:49.134Z",
+    "last_updated": "2026-08-19T22:13:36.582Z",
     "original_repository": "mxschmitt/awesome-playwright",
     "original_repository_id": 246150059,
     "original_repository_sha": "f44e13abedd44ce86094650f50417d46bb72c66c",
