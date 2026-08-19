@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36437041,
             "language": "TypeScript",
             "last_commit": "2026-08-14T13:20:22Z",
             "owner": "artilleryio",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46641250,
             "language": "JavaScript",
             "last_commit": "2026-08-15T10:53:14Z",
             "owner": "codeceptjs",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541732486,
             "language": "TypeScript",
             "last_commit": "2026-08-13T08:31:53Z",
             "owner": "Sparticuz",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621268886,
             "language": "TypeScript",
             "last_commit": "2026-08-10T08:24:56Z",
             "owner": "vitalets",
             "repo": "playwright-bdd",
-            "stars": 757
+            "stars": 759
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263923968,
             "language": "JavaScript",
             "last_commit": "2026-08-11T18:03:25Z",
             "owner": "dequelabs",
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 703934782,
             "language": "TypeScript",
             "last_commit": "2025-09-03T14:42:40Z",
             "owner": "ruifigueira",
             "repo": "playwright-crx",
-            "stars": 664
+            "stars": 665
           }
         },
         {
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284747964,
             "language": "Python",
             "last_commit": "2026-08-11T14:45:30Z",
             "owner": "microsoft",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335607286,
             "language": "TypeScript",
             "last_commit": "2026-08-11T21:53:05Z",
             "owner": "Tallyb",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272257323,
             "language": "TypeScript",
             "last_commit": "2025-09-12T09:28:58Z",
             "owner": "abhinaba-ghosh",
@@ -136,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445871193,
             "language": "TypeScript",
             "last_commit": "2026-08-16T20:39:19Z",
             "owner": "guidepup",
             "repo": "guidepup-playwright",
-            "stars": 80
+            "stars": 82
           }
         },
         {
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 822728727,
             "language": "TypeScript",
             "last_commit": "2026-08-17T18:13:25Z",
             "owner": "jfgreffier",
@@ -161,7 +172,7 @@
       "title": "Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -170,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276414382,
             "language": "Python",
             "last_commit": "2026-08-14T00:17:01Z",
             "owner": "microsoft",
             "repo": "playwright-python",
-            "stars": 14921
+            "stars": 14922
           }
         },
         {
@@ -184,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287942241,
             "language": "Go",
             "last_commit": "2026-08-17T07:07:56Z",
             "owner": "mxschmitt",
             "repo": "playwright-go",
-            "stars": 3471
+            "stars": 3472
           }
         },
         {
@@ -198,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235572844,
             "language": "C#",
             "last_commit": "2026-08-12T15:49:27Z",
             "owner": "microsoft",
             "repo": "playwright-dotnet",
-            "stars": 2997
+            "stars": 2998
           }
         },
         {
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298640027,
             "language": "Java",
             "last_commit": "2026-08-04T16:59:25Z",
             "owner": "microsoft",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326015245,
             "language": "Ruby",
             "last_commit": "2026-08-01T05:06:19Z",
             "owner": "YusukeIwaki",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1041631108,
             "language": "PHP",
             "last_commit": "2026-08-13T03:59:29Z",
             "owner": "playwright-php",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1090382961,
             "language": "Rust",
             "last_commit": "2026-08-18T10:41:14Z",
             "owner": "padamson",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 305780015,
             "language": "Perl",
             "last_commit": "2025-10-03T16:53:56Z",
             "owner": "teodesian",
@@ -279,7 +298,7 @@
       "title": "Language Support"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -288,11 +307,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171010355,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:38:14Z",
+            "last_commit": "2026-08-18T22:56:42Z",
             "owner": "saffron-health",
             "repo": "libretto",
-            "stars": 875
+            "stars": 877
           }
         },
         {
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251400482,
             "language": "TypeScript",
             "last_commit": "2026-08-12T01:14:49Z",
             "owner": "mskelton",
@@ -316,11 +337,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1143589800,
             "language": null,
             "last_commit": "2026-07-21T06:01:56Z",
             "owner": "currents-dev",
             "repo": "playwright-best-practices-skill",
-            "stars": 358
+            "stars": 359
           }
         },
         {
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1157070830,
             "language": null,
             "last_commit": "2026-07-02T11:38:34Z",
             "owner": "testdino-hq",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103610128,
             "language": "HTML",
             "last_commit": "2026-04-03T10:31:12Z",
             "owner": "aerokube",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 816211122,
             "language": "TypeScript",
             "last_commit": "2026-05-12T13:12:01Z",
             "owner": "vitalets",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402826634,
             "language": "JavaScript",
             "last_commit": "2026-07-23T00:13:19Z",
             "owner": "anishkny",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307371983,
             "language": "Go",
             "last_commit": "2026-08-09T03:27:07Z",
             "owner": "alcounit",
@@ -400,11 +427,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1021725053,
             "language": "TypeScript",
             "last_commit": "2026-06-28T20:59:04Z",
             "owner": "omachala",
             "repo": "heroshot",
-            "stars": 70
+            "stars": 72
           }
         },
         {
@@ -414,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 829360545,
             "language": "TypeScript",
             "last_commit": "2026-05-12T15:32:45Z",
             "owner": "vitalets",
@@ -428,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 729889603,
             "language": "TypeScript",
             "last_commit": "2026-08-03T12:18:57Z",
             "owner": "DyHex",
@@ -442,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 408254305,
             "language": "TypeScript",
             "last_commit": "2025-03-10T20:54:46Z",
             "owner": "bgotink",
@@ -456,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153014783,
             "language": "TypeScript",
             "last_commit": "2026-08-02T03:53:50Z",
             "owner": "idan-rubin",
@@ -470,11 +502,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1025616675,
             "language": "TypeScript",
             "last_commit": "2026-08-10T08:12:51Z",
             "owner": "vitalets",
             "repo": "global-cache",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -484,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 633303710,
             "language": "TypeScript",
             "last_commit": "2026-07-28T07:52:08Z",
             "owner": "DetachHead",
@@ -498,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1112565828,
             "language": "TypeScript",
             "last_commit": "2026-08-18T16:44:07Z",
             "owner": "stevez",
@@ -512,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527195070,
             "language": "TypeScript",
             "last_commit": "2025-07-16T04:37:09Z",
             "owner": "DetachHead",
@@ -526,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635557035,
             "language": "Python",
             "last_commit": "2024-04-17T11:36:17Z",
             "owner": "Mattwmaster58",
@@ -537,7 +574,7 @@
       "title": "Utils"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -546,11 +583,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1163834030,
             "language": "Python",
             "last_commit": "2026-08-18T19:37:20Z",
             "owner": "CloakHQ",
             "repo": "CloakBrowser",
-            "stars": 30354
+            "stars": 30381
           }
         },
         {
@@ -560,11 +598,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111058386,
             "language": "TypeScript",
             "last_commit": "2026-08-18T05:48:16Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13605
+            "stars": 13606
           }
         },
         {
@@ -574,11 +613,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1142274728,
             "language": "JavaScript",
             "last_commit": "2026-08-04T02:43:47Z",
             "owner": "jo-inc",
             "repo": "camofox-browser",
-            "stars": 8677
+            "stars": 8698
           }
         },
         {
@@ -588,11 +628,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1237338198,
             "language": "Python",
-            "last_commit": "2026-08-18T18:57:36Z",
+            "last_commit": "2026-08-18T23:09:02Z",
             "owner": "feder-cr",
             "repo": "invisible_playwright",
-            "stars": 1903
+            "stars": 1908
           }
         },
         {
@@ -602,11 +643,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1122548348,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:05:41Z",
+            "last_commit": "2026-08-19T12:25:19Z",
             "owner": "figranium",
             "repo": "figranium",
-            "stars": 480
+            "stars": 516
           }
         },
         {
@@ -616,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1012496755,
             "language": "Python",
             "last_commit": "2026-08-10T11:35:00Z",
             "owner": "techinz",
@@ -630,18 +673,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1018627923,
             "language": "Python",
             "last_commit": "2026-06-12T11:06:20Z",
             "owner": "techinz",
             "repo": "playwright-captcha",
-            "stars": 341
+            "stars": 342
           }
         }
       ],
       "title": "Scraping & Automation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -650,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436505742,
             "language": "JavaScript",
             "last_commit": "2026-08-14T06:05:58Z",
             "owner": "cenfun",
@@ -664,8 +709,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155722492,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T12:19:51Z",
+            "last_commit": "2026-08-19T12:30:19Z",
             "owner": "allure-framework",
             "repo": "allure-js",
             "stars": 280
@@ -678,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241091114,
             "language": "JavaScript",
             "last_commit": "2026-08-15T19:24:15Z",
             "owner": "testomatio",
@@ -692,6 +739,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514423847,
             "language": "TypeScript",
             "last_commit": "2026-08-17T01:23:57Z",
             "owner": "ryanrosello-og",
@@ -706,6 +754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 729931365,
             "language": "TypeScript",
             "last_commit": "2026-08-08T12:50:04Z",
             "owner": "ctrf-io",
@@ -720,8 +769,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268305344,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:55:15Z",
+            "last_commit": "2026-08-19T09:52:39Z",
             "owner": "qase-tms",
             "repo": "qase-javascript",
             "stars": 55
@@ -734,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 561307861,
             "language": "TypeScript",
             "last_commit": "2026-08-10T22:10:01Z",
             "owner": "inluxc",
@@ -748,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 728035376,
             "language": "TypeScript",
             "last_commit": "2025-03-09T13:09:51Z",
             "owner": "mrasu",
@@ -762,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201884625,
             "language": "TypeScript",
             "last_commit": "2026-07-01T08:05:07Z",
             "owner": "vitalets",
@@ -776,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1259529038,
             "language": "TypeScript",
             "last_commit": "2026-08-16T16:56:42Z",
             "owner": "kinora-dev",
@@ -790,8 +844,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1111609705,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:55:44Z",
+            "last_commit": "2026-08-19T09:11:49Z",
             "owner": "PiwiTests",
             "repo": "platform",
             "stars": 13
@@ -804,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462684614,
             "language": "JavaScript",
             "last_commit": "2026-01-25T15:13:30Z",
             "owner": "tesults",
@@ -815,7 +871,7 @@
       "title": "Reporters"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -824,11 +880,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:10:21Z",
+            "last_commit": "2026-08-19T12:40:56Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 188910
+            "stars": 188925
           }
         },
         {
@@ -838,11 +895,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20929025,
             "language": "TypeScript",
             "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110197
+            "stars": 110204
           }
         },
         {
@@ -852,11 +910,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18068542,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:50:21Z",
+            "last_commit": "2026-08-19T11:55:31Z",
             "owner": "xtermjs",
             "repo": "xterm.js",
-            "stars": 21064
+            "stars": 21067
           }
         },
         {
@@ -866,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111416210,
             "language": "JavaScript",
             "last_commit": "2026-08-13T15:24:26Z",
             "owner": "elastic",
@@ -880,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660158294,
             "language": "TypeScript",
             "last_commit": "2025-10-20T18:19:28Z",
             "owner": "microsoft",
@@ -889,16 +950,12 @@
         }
       ],
       "title": "Showcases"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:11:49.795Z",
+    "last_updated": "2026-08-19T12:49:49.134Z",
     "original_repository": "mxschmitt/awesome-playwright",
+    "original_repository_id": 246150059,
     "original_repository_sha": "f44e13abedd44ce86094650f50417d46bb72c66c",
     "enhanced_repository": "enhansome/enhansome-playwright",
     "enhanced_repository_description": null,
