@@ -57,10 +57,10 @@
             "archived": false,
             "id": 621268886,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T16:19:31Z",
+            "last_commit": "2026-08-23T08:58:21Z",
             "owner": "vitalets",
             "repo": "playwright-bdd",
-            "stars": 763
+            "stars": 764
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 263923968,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T10:14:12Z",
+            "last_commit": "2026-08-23T17:59:19Z",
             "owner": "dequelabs",
             "repo": "axe-core-npm",
             "stars": 719
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 822728727,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T19:15:32Z",
+            "last_commit": "2026-08-23T13:24:01Z",
             "owner": "jfgreffier",
             "repo": "playwright-ng-schematics",
             "stars": 21
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-20T17:53:07Z",
             "owner": "microsoft",
             "repo": "playwright-python",
-            "stars": 14937
+            "stars": 14940
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-04T16:59:25Z",
             "owner": "microsoft",
             "repo": "playwright-java",
-            "stars": 1533
+            "stars": 1534
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 1090382961,
             "language": "Rust",
-            "last_commit": "2026-08-22T21:19:42Z",
+            "last_commit": "2026-08-23T09:44:50Z",
             "owner": "padamson",
             "repo": "playwright-rust",
             "stars": 140
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-21T02:45:46Z",
             "owner": "saffron-health",
             "repo": "libretto",
-            "stars": 877
+            "stars": 878
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-07-21T06:01:56Z",
             "owner": "currents-dev",
             "repo": "playwright-best-practices-skill",
-            "stars": 362
+            "stars": 363
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-07-02T11:38:34Z",
             "owner": "testdino-hq",
             "repo": "playwright-skill",
-            "stars": 350
+            "stars": 352
           }
         },
         {
@@ -585,10 +585,10 @@
             "archived": false,
             "id": 1163834030,
             "language": "Python",
-            "last_commit": "2026-08-22T15:34:19Z",
+            "last_commit": "2026-08-23T20:13:35Z",
             "owner": "CloakHQ",
             "repo": "CloakBrowser",
-            "stars": 30592
+            "stars": 30701
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2026-08-21T05:44:32Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13622
+            "stars": 13626
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2026-08-19T20:30:53Z",
             "owner": "jo-inc",
             "repo": "camofox-browser",
-            "stars": 8781
+            "stars": 8816
           }
         },
         {
@@ -630,10 +630,10 @@
             "archived": false,
             "id": 1237338198,
             "language": "Python",
-            "last_commit": "2026-08-22T07:00:07Z",
+            "last_commit": "2026-08-23T10:51:59Z",
             "owner": "feder-cr",
             "repo": "invisible_playwright",
-            "stars": 1921
+            "stars": 1924
           }
         },
         {
@@ -645,10 +645,10 @@
             "archived": false,
             "id": 1122548348,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T19:08:46Z",
+            "last_commit": "2026-08-23T20:40:43Z",
             "owner": "figranium",
             "repo": "figranium",
-            "stars": 573
+            "stars": 577
           }
         },
         {
@@ -696,7 +696,7 @@
             "archived": false,
             "id": 436505742,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T14:47:03Z",
+            "last_commit": "2026-08-23T06:02:45Z",
             "owner": "cenfun",
             "repo": "monocart-reporter",
             "stars": 317
@@ -726,7 +726,7 @@
             "archived": false,
             "id": 241091114,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T19:24:15Z",
+            "last_commit": "2026-08-23T13:25:28Z",
             "owner": "testomatio",
             "repo": "reporter",
             "stars": 151
@@ -882,10 +882,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T18:41:54Z",
+            "last_commit": "2026-08-23T22:07:31Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189273
+            "stars": 189347
           }
         },
         {
@@ -897,10 +897,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-21T21:39:39Z",
+            "last_commit": "2026-08-23T21:33:17Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110523
+            "stars": 110630
           }
         },
         {
@@ -915,7 +915,7 @@
             "last_commit": "2026-08-22T09:27:41Z",
             "owner": "xtermjs",
             "repo": "xterm.js",
-            "stars": 21080
+            "stars": 21084
           }
         },
         {
@@ -953,7 +953,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:10:54.808Z",
+    "last_updated": "2026-08-23T22:10:35.199Z",
     "original_repository": "mxschmitt/awesome-playwright",
     "original_repository_id": 246150059,
     "original_repository_sha": "f44e13abedd44ce86094650f50417d46bb72c66c",
