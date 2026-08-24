@@ -60,7 +60,7 @@
             "last_commit": "2026-08-23T08:58:21Z",
             "owner": "vitalets",
             "repo": "playwright-bdd",
-            "stars": 765
+            "stars": 766
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 263923968,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T17:59:19Z",
+            "last_commit": "2026-08-24T18:51:31Z",
             "owner": "dequelabs",
             "repo": "axe-core-npm",
             "stars": 719
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-20T17:53:07Z",
             "owner": "microsoft",
             "repo": "playwright-python",
-            "stars": 14943
+            "stars": 14947
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-04T16:59:25Z",
             "owner": "microsoft",
             "repo": "playwright-java",
-            "stars": 1534
+            "stars": 1535
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-24T01:38:30Z",
             "owner": "CloakHQ",
             "repo": "CloakBrowser",
-            "stars": 30751
+            "stars": 30757
           }
         },
         {
@@ -600,10 +600,10 @@
             "archived": false,
             "id": 111058386,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T05:44:32Z",
+            "last_commit": "2026-08-24T15:13:19Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13626
+            "stars": 13629
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2026-08-19T20:30:53Z",
             "owner": "jo-inc",
             "repo": "camofox-browser",
-            "stars": 8836
+            "stars": 8847
           }
         },
         {
@@ -633,7 +633,7 @@
             "last_commit": "2026-08-23T10:51:59Z",
             "owner": "feder-cr",
             "repo": "invisible_playwright",
-            "stars": 1928
+            "stars": 1929
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-24T13:40:03Z",
             "owner": "figranium",
             "repo": "figranium",
-            "stars": 580
+            "stars": 581
           }
         },
         {
@@ -882,10 +882,10 @@
             "archived": false,
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:05:52Z",
+            "last_commit": "2026-08-24T22:12:36Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189368
+            "stars": 189525
           }
         },
         {
@@ -897,10 +897,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-24T01:47:42Z",
+            "last_commit": "2026-08-24T22:06:33Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110650
+            "stars": 110658
           }
         },
         {
@@ -915,7 +915,7 @@
             "last_commit": "2026-08-24T11:33:19Z",
             "owner": "xtermjs",
             "repo": "xterm.js",
-            "stars": 21086
+            "stars": 21088
           }
         },
         {
@@ -953,7 +953,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:24.487Z",
+    "last_updated": "2026-08-24T22:14:57.923Z",
     "original_repository": "mxschmitt/awesome-playwright",
     "original_repository_id": 246150059,
     "original_repository_sha": "f44e13abedd44ce86094650f50417d46bb72c66c",
