@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module.",
+            "homepage": "https://www.artillery.io",
             "id": 36437041,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T14:24:46Z",
+            "open_issues": 485,
             "owner": "artilleryio",
             "repo": "artillery",
-            "stars": 9062
+            "stars": 9062,
+            "topics": [
+              "api",
+              "automation",
+              "aws",
+              "browser",
+              "fargate",
+              "grpc",
+              "javascript",
+              "lambda",
+              "load",
+              "load-testing",
+              "opentelemetry",
+              "otel",
+              "performance",
+              "playwright",
+              "serverless",
+              "socketio",
+              "stress",
+              "testing",
+              "typescript",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -26,12 +52,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharged End 2 End Testing Framework for NodeJS",
+            "homepage": "http://codecept.io",
             "id": 46641250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T12:24:15Z",
+            "open_issues": 220,
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
-            "stars": 4242
+            "stars": 4243,
+            "topics": [
+              "acceptance-testing",
+              "bdd",
+              "bdd-framework",
+              "codeceptjs",
+              "e2e-tests",
+              "end-to-end-testing",
+              "graphql-testing",
+              "hacktoberfest",
+              "javascript",
+              "nodejs",
+              "pageobject",
+              "playwright",
+              "selenium",
+              "selenium-webdriver",
+              "testing",
+              "webdriver",
+              "webdriverio"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -42,12 +91,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chromium for Serverless Platforms",
+            "homepage": null,
             "id": 541732486,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:19:15Z",
+            "open_issues": 22,
             "owner": "Sparticuz",
             "repo": "chromium",
-            "stars": 1641
+            "stars": 1641,
+            "topics": [
+              "chromium",
+              "hacktoberfest",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -58,12 +116,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BDD testing with Playwright runner",
+            "homepage": "https://vitalets.github.io/playwright-bdd/",
             "id": 621268886,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T11:28:08Z",
+            "open_issues": 31,
             "owner": "vitalets",
             "repo": "playwright-bdd",
-            "stars": 771
+            "stars": 771,
+            "topics": [
+              "automated-testing",
+              "bdd",
+              "cucumber",
+              "gherkin",
+              "playwright",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -74,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 263923968,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T18:50:18Z",
+            "open_issues": 96,
             "owner": "dequelabs",
             "repo": "axe-core-npm",
-            "stars": 719
+            "stars": 719,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -90,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright for chrome extensions",
+            "homepage": null,
             "id": 703934782,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-03T14:42:40Z",
+            "open_issues": 24,
             "owner": "ruifigueira",
             "repo": "playwright-crx",
-            "stars": 666
+            "stars": 666,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -106,12 +186,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytest plugin to write end-to-end browser tests with Playwright.",
+            "homepage": "https://playwright.dev/python/docs/test-runners",
             "id": 284747964,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T19:30:09Z",
+            "open_issues": 25,
             "owner": "microsoft",
             "repo": "playwright-pytest",
-            "stars": 560
+            "stars": 560,
+            "topics": [
+              "playwright",
+              "pytest-plugin",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -122,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 335607286,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T12:11:47Z",
+            "open_issues": 19,
             "owner": "Tallyb",
             "repo": "cucumber-playwright",
-            "stars": 438
+            "stars": 438,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -138,12 +232,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":wheelchair:: Custom commands for Playwright to run accessibility (a11y) checks with axe-core",
+            "homepage": "https://www.npmjs.com/package/axe-playwright",
             "id": 272257323,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-12T09:28:58Z",
+            "open_issues": 13,
             "owner": "abhinaba-ghosh",
             "repo": "axe-playwright",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "a11y",
+              "a11y-testing",
+              "accesibility",
+              "axe",
+              "axe-core",
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -154,12 +260,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Screen reader automation library for Playwright testing.",
+            "homepage": "https://guidepup.dev",
             "id": 445871193,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:06:40Z",
+            "open_issues": 3,
             "owner": "guidepup",
             "repo": "guidepup-playwright",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "a11y",
+              "a11y-api",
+              "a11y-automation",
+              "a11y-testing",
+              "accessibility",
+              "accessibility-automation",
+              "accessibility-testing",
+              "nvda",
+              "playwright",
+              "playwright-a11y",
+              "screen-reader",
+              "screen-reader-api",
+              "voiceover"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -170,12 +295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds Playwright Test to your Angular project",
+            "homepage": "https://www.npmjs.com/package/playwright-ng-schematics",
             "id": 822728727,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:16:42Z",
+            "open_issues": 2,
             "owner": "jfgreffier",
             "repo": "playwright-ng-schematics",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         }
@@ -192,12 +322,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python version of the Playwright testing and automation library.",
+            "homepage": "https://playwright.dev/python/",
             "id": 276414382,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:52:48Z",
+            "open_issues": 11,
             "owner": "microsoft",
             "repo": "playwright-python",
-            "stars": 14961
+            "stars": 14961,
+            "topics": [
+              "chromium",
+              "firefox",
+              "playwright",
+              "webkit"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -208,12 +348,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.",
+            "homepage": "https://mxschmitt.github.io/playwright-go/",
             "id": 287942241,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-17T07:07:56Z",
+            "open_issues": 4,
             "owner": "mxschmitt",
             "repo": "playwright-go",
-            "stars": 3483
+            "stars": 3483,
+            "topics": [
+              "automation",
+              "browser-automation",
+              "chromium",
+              "firefox",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "headless",
+              "headless-chrome",
+              "playwright",
+              "selenium",
+              "webkit"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -224,12 +382,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET version of the Playwright testing and automation library.",
+            "homepage": "https://playwright.dev/dotnet/",
             "id": 235572844,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-20T15:45:51Z",
+            "open_issues": 48,
             "owner": "microsoft",
             "repo": "playwright-dotnet",
-            "stars": 3003
+            "stars": 3003,
+            "topics": [
+              "chrome",
+              "chromium",
+              "csharp",
+              "firefox",
+              "playwright",
+              "webkit"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -240,12 +410,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java version of the Playwright testing and automation library",
+            "homepage": "https://playwright.dev/java/",
             "id": 298640027,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:59:25Z",
+            "open_issues": 35,
             "owner": "microsoft",
             "repo": "playwright-java",
-            "stars": 1539
+            "stars": 1539,
+            "topics": [
+              "java",
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -256,12 +434,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright client for Ruby",
+            "homepage": "https://playwright-ruby-client.vercel.app/",
             "id": 326015245,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:36:38Z",
+            "open_issues": 9,
             "owner": "YusukeIwaki",
             "repo": "playwright-ruby-client",
-            "stars": 509
+            "stars": 510,
+            "topics": [
+              "playwright",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -272,12 +458,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright PHP library for browser automation: navigation, E2E tests, assertions, screenshots, and so much more!",
+            "homepage": "https://playwright-php.dev/",
             "id": 1041631108,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:55:37Z",
+            "open_issues": 12,
             "owner": "playwright-php",
             "repo": "playwright",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "browser",
+              "browser-automation",
+              "css-selectors",
+              "json-rpc",
+              "locators",
+              "php",
+              "php-browser",
+              "php-js",
+              "phpunit",
+              "playwright",
+              "scraping",
+              "screenshot",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -288,12 +493,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust language bindings for Microsoft Playwright",
+            "homepage": "https://playwright-rust.dev",
             "id": 1090382961,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T09:44:50Z",
+            "open_issues": 6,
             "owner": "padamson",
             "repo": "playwright-rust",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "browser-automation",
+              "playwright",
+              "playwright-tests",
+              "rust",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -304,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perl bindings for playwright",
+            "homepage": null,
             "id": 305780015,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2025-10-03T16:53:56Z",
+            "open_issues": 19,
             "owner": "teodesian",
             "repo": "playwright-perl",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         }
@@ -326,12 +547,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI toolkit for building reliable browser automations",
+            "homepage": "https://libretto.sh",
             "id": 1171010355,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T02:45:46Z",
+            "open_issues": 18,
             "owner": "saffron-health",
             "repo": "libretto",
-            "stars": 882
+            "stars": 882,
+            "topics": [
+              "automation",
+              "browser",
+              "claude-code",
+              "codex",
+              "rpa"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -342,12 +574,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESLint plugin for Playwright",
+            "homepage": "https://www.npmjs.com/package/eslint-plugin-playwright",
             "id": 251400482,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T07:20:59Z",
+            "open_issues": 28,
             "owner": "mskelton",
             "repo": "eslint-plugin-playwright",
-            "stars": 392
+            "stars": 392,
+            "topics": [
+              "eslint",
+              "eslint-plugin",
+              "jest",
+              "jest-playwright",
+              "playwright",
+              "playwright-test-runner"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -358,12 +602,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Skill for Playwright Best Practices—made by Currents.dev",
+            "homepage": null,
             "id": 1143589800,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-21T06:01:56Z",
+            "open_issues": 0,
             "owner": "currents-dev",
             "repo": "playwright-best-practices-skill",
-            "stars": 368
+            "stars": 368,
+            "topics": [
+              "ai",
+              "ai-skill",
+              "ai-skills",
+              "playwright",
+              "playwright-typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -374,12 +629,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TestDino Playwright Skill: AI-powered guides for Playwright best practices, made by testdino.com.",
+            "homepage": "https://www.testdino.com",
             "id": 1157070830,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-02T11:38:34Z",
+            "open_issues": 1,
             "owner": "testdino-hq",
             "repo": "playwright-skill",
-            "stars": 352
+            "stars": 352,
+            "topics": [
+              "ai",
+              "ai-skills",
+              "antigravity-skills",
+              "claude-skills",
+              "codex-skills",
+              "cursor-skills",
+              "devtool",
+              "openclaw-skills",
+              "playwright",
+              "reporting",
+              "skills",
+              "test-reporting",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -390,12 +664,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser automation solution for Kubernetes and Openshift supporting Selenium, Playwright, Puppeteer and Cypress",
+            "homepage": "http://aerokube.com/moon/latest",
             "id": 103610128,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-03T10:31:12Z",
+            "open_issues": 84,
             "owner": "aerokube",
             "repo": "moon",
-            "stars": 279
+            "stars": 279,
+            "topics": [
+              "chrome-devtools-protocol",
+              "cypress-io",
+              "kubernetes",
+              "moon",
+              "on-premises",
+              "openshift",
+              "playwright",
+              "puppeteer",
+              "selenium",
+              "selenium-grid",
+              "selenium-webdriver"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -406,12 +697,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cache and mock network requests in Playwright",
+            "homepage": null,
             "id": 816211122,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-12T13:12:01Z",
+            "open_issues": 4,
             "owner": "vitalets",
             "repo": "playwright-network-cache",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "cache",
+              "network",
+              "playwright",
+              "playwright-javascript",
+              "requests-mock"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -422,12 +724,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extends Playwright test to measure code coverage",
+            "homepage": "https://npmjs.com/playwright-test-coverage",
             "id": 402826634,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-23T00:13:19Z",
+            "open_issues": 14,
             "owner": "anishkny",
             "repo": "playwright-test-coverage",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "babel",
+              "coverage",
+              "istanbul",
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -438,12 +750,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable, stateless selenium, playwright, mpc hub for Kubernetes cluster",
+            "homepage": null,
             "id": 307371983,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T03:27:07Z",
+            "open_issues": 0,
             "owner": "alcounit",
             "repo": "selenosis",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "automated-testing",
+              "automation",
+              "docker",
+              "go",
+              "golang",
+              "k8s",
+              "kubernetes",
+              "mcp",
+              "playwright",
+              "playwright-automation",
+              "playwright-mcp",
+              "selenium",
+              "selenium-automation",
+              "selenium-grid",
+              "selenium-hub",
+              "selenium-server",
+              "selenium-tests",
+              "selenium-webdriver",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -454,12 +791,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Screenshot automation framework. Define once, regenerate forever. Visual picker, multi-viewport, light/dark mode, CI-ready.",
+            "homepage": "https://heroshot.dev",
             "id": 1021725053,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-28T20:59:04Z",
+            "open_issues": 4,
             "owner": "omachala",
             "repo": "heroshot",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "automation",
+              "cli",
+              "developer-tools",
+              "documentation",
+              "docusaurus",
+              "mkdocs",
+              "playwright",
+              "screenshot",
+              "technical-writing",
+              "typescript",
+              "vitepress"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -470,12 +824,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto-transform JavaScript comments into Playwright steps",
+            "homepage": null,
             "id": 829360545,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-12T15:32:45Z",
+            "open_issues": 1,
             "owner": "vitalets",
             "repo": "playwright-magic-steps",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "playwright",
+              "step",
+              "test-automation",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -486,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "POMWright is a complementary test framework for Playwright written in TypeScript.",
+            "homepage": null,
             "id": 729889603,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T12:18:57Z",
+            "open_issues": 0,
             "owner": "DyHex",
             "repo": "POMWright",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -502,12 +871,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track coverage in playwright tests",
+            "homepage": null,
             "id": 408254305,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-10T20:54:46Z",
+            "open_issues": 9,
             "owner": "bgotink",
             "repo": "playwright-coverage",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -518,12 +892,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI-native browser automation library. Snapshot + ref targeting — born from OpenClaw, built for agents, by agents.",
+            "homepage": null,
             "id": 1153014783,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:46:48Z",
+            "open_issues": 2,
             "owner": "idan-rubin",
             "repo": "browserclaw",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "accessibility",
+              "ai",
+              "ai-agent",
+              "browser-automation",
+              "cdp",
+              "chrome",
+              "llm",
+              "openclaw",
+              "playwright",
+              "snapshot",
+              "typescript",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -534,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A key-value cache for sharing data between parallel workers.",
+            "homepage": null,
             "id": 1025616675,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T08:12:51Z",
+            "open_issues": 2,
             "owner": "vitalets",
             "repo": "global-cache",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -550,12 +947,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 633303710,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-28T07:52:08Z",
+            "open_issues": 17,
             "owner": "DetachHead",
             "repo": "playwright-ui5",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "playwright",
+              "sap",
+              "ui5"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -566,12 +972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next.js code coverage for Playwright E2E tests using V8 coverage",
+            "homepage": null,
             "id": 1112565828,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T09:34:31Z",
+            "open_issues": 3,
             "owner": "stevez",
             "repo": "nextcov",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -582,12 +993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an xpath 3.1 selector engine for playwright",
+            "homepage": null,
             "id": 527195070,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-07-16T04:37:09Z",
+            "open_issues": 4,
             "owner": "DetachHead",
             "repo": "playwright-xpath",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -598,12 +1014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "language injection definitions for PyCharm with playwright-python",
+            "homepage": null,
             "id": 635557035,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-17T11:36:17Z",
+            "open_issues": 0,
             "owner": "Mattwmaster58",
             "repo": "playwright-python-language-injection",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         }
@@ -620,12 +1041,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+            "homepage": "https://cloakbrowser.dev/",
             "id": 1163834030,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:00:40Z",
+            "open_issues": 211,
             "owner": "CloakHQ",
             "repo": "CloakBrowser",
-            "stars": 30932
+            "stars": 30930,
+            "topics": [
+              "ai-agents",
+              "anti-detect",
+              "antidetect-browser",
+              "bot-detection",
+              "browser-automation",
+              "captcha-bypass",
+              "chromium",
+              "cloudflare",
+              "cloudflare-bypass",
+              "fingerprint",
+              "headless-browser",
+              "playwright",
+              "puppeteer",
+              "python",
+              "recaptcha",
+              "selenium",
+              "stealth-browser",
+              "undetected",
+              "web-scraping",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -636,12 +1083,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.",
+            "homepage": "https://browserless.io",
             "id": 111058386,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:09:59Z",
+            "open_issues": 12,
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13639
+            "stars": 13639,
+            "topics": [
+              "browserless",
+              "chrome",
+              "docker",
+              "firefox",
+              "nodejs",
+              "playwright",
+              "puppeteer",
+              "typescript",
+              "webkit",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -652,12 +1115,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+            "homepage": "https://github.com/jo-inc/camofox-browser#readme",
             "id": 1142274728,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T03:33:21Z",
+            "open_issues": 81,
             "owner": "jo-inc",
             "repo": "camofox-browser",
-            "stars": 8947
+            "stars": 8948,
+            "topics": [
+              "ai-agent",
+              "anti-bot",
+              "antidetect-browser",
+              "automation",
+              "bot-detection",
+              "browser-automation",
+              "cloudflare-bypass",
+              "headless-browser",
+              "javascript",
+              "nodejs",
+              "playwright",
+              "puppeteer",
+              "scraping",
+              "stealth-browser",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -668,12 +1152,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source",
+            "homepage": null,
             "id": 1237338198,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T03:15:05Z",
+            "open_issues": 4,
             "owner": "feder-cr",
             "repo": "invisible_playwright",
-            "stars": 1946
+            "stars": 1946,
+            "topics": [
+              "anti-bot",
+              "anti-detect-browser",
+              "antidetect",
+              "automation",
+              "bot-detection",
+              "browser-automation",
+              "browser-fingerprinting",
+              "cloudflare",
+              "crawler",
+              "fingerprint",
+              "fingerprintjs",
+              "firefox",
+              "headless-browser",
+              "playwright",
+              "proxy",
+              "python",
+              "scraping",
+              "selenium",
+              "stealth",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -684,12 +1194,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stack blocks visually to build complex browser workflows and execute them via API",
+            "homepage": "https://figranium.dev",
             "id": 1122548348,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T23:13:32Z",
+            "open_issues": 0,
             "owner": "figranium",
             "repo": "figranium",
-            "stars": 624
+            "stars": 624,
+            "topics": [
+              "agentic-tasks",
+              "api",
+              "automation",
+              "browser-automation",
+              "headless",
+              "headless-browser",
+              "playwright",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -700,12 +1224,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser automation engine benchmark - Test bypass rates, performance & stealth against Cloudflare, DataDome, reCAPTCHA, Kasada, Imperva, Akamai, PerimeterX  and other bot detection systems. Find the best browser for scraping.",
+            "homepage": null,
             "id": 1012496755,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T11:35:00Z",
+            "open_issues": 5,
             "owner": "techinz",
             "repo": "browsers-benchmark",
-            "stars": 381
+            "stars": 381,
+            "topics": [
+              "anti-detect",
+              "antidetect-browser",
+              "automation",
+              "browser",
+              "captcha",
+              "patchright",
+              "playwright",
+              "puppeteer",
+              "python",
+              "stealth"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -716,12 +1256,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automating captcha solving for Playwright. Supports Cloudflare Turnstile & Interstitial, and reCAPTCHA V2 & V3 with Click-based or API (2captcha) solving. Designed for easy integration with Playwright, Patchright, and Camoufox.",
+            "homepage": "https://pypi.org/project/playwright-captcha",
             "id": 1018627923,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-12T11:06:20Z",
+            "open_issues": 2,
             "owner": "techinz",
             "repo": "playwright-captcha",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "automation",
+              "bot",
+              "camoufox",
+              "captcha",
+              "detection",
+              "patchright",
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         }
@@ -738,12 +1291,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A playwright test reporter (Node.js)",
+            "homepage": "https://cenfun.github.io/monocart-reporter/",
             "id": 436505742,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T03:10:34Z",
+            "open_issues": 6,
             "owner": "cenfun",
             "repo": "monocart-reporter",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "chart",
+              "code",
+              "comments",
+              "coverage",
+              "discord",
+              "e2e",
+              "email",
+              "grid",
+              "html",
+              "jira",
+              "monocart-reporter",
+              "playwright",
+              "slack",
+              "summary",
+              "tags",
+              "test",
+              "testrail",
+              "v8",
+              "xray",
+              "zephyr"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -754,12 +1333,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allure integrations for JavaScript test frameworks",
+            "homepage": "https://allurereport.org/",
             "id": 155722492,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T14:48:33Z",
+            "open_issues": 77,
             "owner": "allure-framework",
             "repo": "allure-js",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "allure",
+              "cucumber",
+              "jasmine",
+              "jest",
+              "mocha",
+              "newman",
+              "playwright",
+              "postman",
+              "reporing",
+              "reporting-engine",
+              "testing",
+              "vitest"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -770,12 +1367,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Testomatio Reporter",
+            "homepage": null,
             "id": 241091114,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-28T17:44:54Z",
+            "open_issues": 16,
             "owner": "testomatio",
             "repo": "reporter",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -786,12 +1388,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Publish your Playwright test results to your favourite Slack channel(s).",
+            "homepage": null,
             "id": 514423847,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:41:27Z",
+            "open_issues": 0,
             "owner": "ryanrosello-og",
             "repo": "playwright-slack-report",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "playwright",
+              "slack",
+              "test-automation",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -802,12 +1414,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Playwright JSON test results reporter that follows the CTRF schema",
+            "homepage": "https://ctrf.io",
             "id": 729931365,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T12:50:04Z",
+            "open_issues": 4,
             "owner": "ctrf-io",
             "repo": "playwright-ctrf-json-reporter",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "playwright",
+              "playwright-reporter",
+              "test-automation",
+              "test-reporting"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -818,12 +1440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qase TMS JavaScript SDK",
+            "homepage": "https://developers.qase.io",
             "id": 268305344,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-27T13:19:35Z",
+            "open_issues": 0,
             "owner": "qase-tms",
             "repo": "qase-javascript",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -834,12 +1461,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XRAY reporter for Playwright",
+            "homepage": null,
             "id": 561307861,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T22:10:01Z",
+            "open_issues": 3,
             "owner": "inluxc",
             "repo": "playwright-xray",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -850,12 +1482,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Observable Integration Testing using OpenTelemetry on top of Jest/Playwright/Cypress.",
+            "homepage": null,
             "id": 728035376,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-09T13:09:51Z",
+            "open_issues": 1,
             "owner": "mrasu",
             "repo": "echoed",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "api",
+              "api-testing",
+              "cypress",
+              "end-to-end-testing",
+              "integration-testing",
+              "jest",
+              "opentelemetry",
+              "playwright",
+              "test",
+              "testing",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -866,12 +1515,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive timeline report for Playwright.",
+            "homepage": null,
             "id": 1201884625,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-01T08:05:07Z",
+            "open_issues": 2,
             "owner": "vitalets",
             "repo": "playwright-timeline-reporter",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "e2e-testing",
+              "playwright",
+              "playwright-reporter",
+              "test-performance",
+              "timeline"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -882,12 +1542,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dashboard for your Playwright reports, across projects and over time",
+            "homepage": "https://kinora.dev",
             "id": 1259529038,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:04:16Z",
+            "open_issues": 3,
             "owner": "kinora-dev",
             "repo": "kinora",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "ci-cd",
+              "e2e-testing",
+              "flaky-tests",
+              "playwright",
+              "playwright-reporter",
+              "self-hosted",
+              "test-automation",
+              "test-dashboard",
+              "test-reporting",
+              "testing",
+              "trace-viewer"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -898,12 +1575,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your Playwright results, kept and explained — self-hosted run history, failure clustering, flaky scoring, locator healing.",
+            "homepage": "https://piwitests.dev",
             "id": 1111609705,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:18:39Z",
+            "open_issues": 7,
             "owner": "PiwiTests",
             "repo": "platform",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "dashboard",
+              "e2e-testing",
+              "failure-analysis",
+              "flaky-tests",
+              "playwright",
+              "playwright-dashboard",
+              "playwright-reporter",
+              "playwright-tests",
+              "playwright-typescript",
+              "regression-testing",
+              "reporter",
+              "self-hosted",
+              "test-reporting",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -914,12 +1611,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright Tesults Reporter",
+            "homepage": null,
             "id": 462684614,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-25T15:13:30Z",
+            "open_issues": 1,
             "owner": "tesults",
             "repo": "playwright-tesults-reporter",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         }
@@ -936,12 +1638,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Code",
+            "homepage": "https://code.visualstudio.com",
             "id": 41881900,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T03:02:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:28:20Z",
+            "open_issues": 20178,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 189758
+            "stars": 189757,
+            "topics": [
+              "editor",
+              "electron",
+              "microsoft",
+              "typescript",
+              "visual-studio-code"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -952,12 +1665,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+            "homepage": "https://www.typescriptlang.org",
             "id": 20929025,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:01:59Z",
+            "open_issues": 5166,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110756
+            "stars": 110758,
+            "topics": [
+              "javascript",
+              "language",
+              "typechecker",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -968,12 +1691,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A terminal for the web",
+            "homepage": "https://xtermjs.org/",
             "id": 18068542,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:15:10Z",
+            "open_issues": 229,
             "owner": "xtermjs",
             "repo": "xterm.js",
-            "stars": 21102
+            "stars": 21102,
+            "topics": [
+              "console",
+              "development",
+              "javascript",
+              "pty",
+              "ssh",
+              "terminal",
+              "terminal-emulators",
+              "tty",
+              "typescript",
+              "vt100",
+              "webgl",
+              "xterm"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -984,12 +1725,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.elastic.co/guide/en/apm/agent/rum-js/current/index.html",
             "id": 111416210,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T15:24:26Z",
+            "open_issues": 201,
             "owner": "elastic",
             "repo": "apm-agent-rum-js",
-            "stars": 301
+            "stars": 301,
+            "topics": [
+              "apm",
+              "distributed-tracing",
+              "error-monitoring",
+              "performance-metrics",
+              "performance-monitoring",
+              "real-user-monitoring",
+              "rum",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         },
@@ -1000,12 +1755,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://playwright.dev",
             "id": 660158294,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-20T18:19:28Z",
+            "open_issues": 9,
             "owner": "microsoft",
             "repo": "playwright-examples",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:52:07.353Z"
         }
@@ -1014,15 +1774,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:25:03.369Z",
+    "last_updated": "2026-08-29T04:29:30.245Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome tools, utils and projects using Playwright",
+      "homepage": "https://mxschmitt.github.io/awesome-playwright/",
       "id": 246150059,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-12T21:41:13Z",
+      "open_issues": 11,
       "owner": "mxschmitt",
       "repo": "awesome-playwright",
-      "stars": 1561
+      "stars": 1561,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "browser-automation",
+        "playwright",
+        "puppeteer",
+        "testing",
+        "tests"
+      ]
     },
     "original_repository_sha": "f44e13abedd44ce86094650f50417d46bb72c66c",
     "enhanced_repository": "enhansome/enhansome-playwright",
