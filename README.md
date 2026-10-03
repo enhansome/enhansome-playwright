@@ -2,7 +2,7 @@
 
 > A curated list of awesome tools, utils and projects using Playwright
 
-[Playwright](https://github.com/microsoft/playwright) ⭐ 97,017 | 🐛 204 | 🌐 TypeScript | 📅 2026-10-03 is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .NET and Java.
+[Playwright](https://github.com/microsoft/playwright) ⭐ 97,022 | 🐛 206 | 🌐 TypeScript | 📅 2026-10-03 is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .NET and Java.
 
 ## Contents
 
@@ -80,20 +80,20 @@
 
 ## Scraping & Automation
 
-* [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) ⭐ 31,862 | 🐛 238 | 🌐 Python | 📅 2026-09-29 - Stealth Chromium with source-level fingerprint patches and a Playwright-compatible wrapper for Python and JavaScript.
+* [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) ⭐ 31,864 | 🐛 238 | 🌐 Python | 📅 2026-09-29 - Stealth Chromium with source-level fingerprint patches and a Playwright-compatible wrapper for Python and JavaScript.
 * [Browserless](https://github.com/browserless/browserless) ⭐ 13,765 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-02 - Connects Playwright to remote managed browsers over WebSocket, with stealth and CAPTCHA handling.
-* [camofox-browser](https://github.com/jo-inc/camofox-browser) ⭐ 11,369 | 🐛 146 | 🌐 JavaScript | 📅 2026-10-02 - Stealth headless browser server usable as a Playwright-compatible automation backend, with anti-detection built in.
-* [invisible\_playwright](https://github.com/feder-cr/invisible_playwright) ⭐ 2,993 | 🐛 2 | 🌐 Python | 📅 2026-10-02 - Drop-in Playwright replacement using a patched Firefox with source-level fingerprint and anti-detection patches.
+* [camofox-browser](https://github.com/jo-inc/camofox-browser) ⭐ 11,377 | 🐛 148 | 🌐 JavaScript | 📅 2026-10-02 - Stealth headless browser server usable as a Playwright-compatible automation backend, with anti-detection built in.
+* [invisible\_playwright](https://github.com/feder-cr/invisible_playwright) ⭐ 2,996 | 🐛 3 | 🌐 Python | 📅 2026-10-03 - Drop-in Playwright replacement using a patched Firefox with source-level fingerprint and anti-detection patches.
 * [AntiBrow](https://github.com/antibrow/antibrow) ⭐ 991 | 🐛 188 | 🌐 TypeScript | 📅 2026-09-28 - Patched Chromium that returns a standard Playwright BrowserContext over CDP, with fingerprints applied in the C++ layer instead of injected scripts. MIT SDKs for Python and JavaScript, plus an MCP server mode.
-* [Figranium](https://github.com/figranium/figranium) ⭐ 752 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-02 - Build complex browser workflows visually and execute them via API. Dockerized and Playwright-based.
+* [Figranium](https://github.com/figranium/figranium) ⭐ 754 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-02 - Build complex browser workflows visually and execute them via API. Dockerized and Playwright-based.
 * [browsers-benchmark](https://github.com/techinz/browsers-benchmark) ⭐ 395 | 🐛 4 | 🌐 Python | 📅 2026-09-01 - Benchmark tool for testing browser automation engines against bot detection systems (Cloudflare, DataDome, reCAPTCHA, Akamai, PerimeterX, Kasada, ...).
 * [playwright-captcha](https://github.com/techinz/playwright-captcha) ⭐ 352 | 🐛 3 | 🌐 Python | 📅 2026-06-12 - Automated captcha solving for Playwright, Patchright and Camoufox. Supports Cloudflare Turnstile, reCAPTCHA V2 & V3.
 * [Human Browser](https://humanbrowser.cloud) - Playwright drop-in that runs scripts on managed cloud browsers with residential IPs and device fingerprints, with an A2A + MCP endpoint.
 
 ## AI & Agents
 
-* [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 37,766 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28 - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
-* [Webcmd](https://github.com/agentrhq/webcmd) ⭐ 2,636 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-25 - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.
+* [Playwright MCP](https://github.com/microsoft/playwright-mcp) ⭐ 37,771 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28 - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+* [Webcmd](https://github.com/agentrhq/webcmd) ⭐ 2,637 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-25 - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.
 * [Cutaway](https://github.com/half144/cutaway) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-29 - Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.
 * [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 
@@ -119,9 +119,9 @@
 
 ## Showcases
 
-* [VS Code](https://github.com/microsoft/vscode) ⭐ 193,367 | 🐛 21,344 | 🌐 TypeScript | 📅 2026-10-03 - Playwright is used to run cross-browser tests on their web builds.
-* [TypeScript](https://github.com/microsoft/TypeScript) ⭐ 111,313 | 🐛 5,055 | 🌐 Go | 📅 2026-10-03 - Playwright is used to test TypeScript.js across browsers.
-* [xterm.js](https://github.com/xtermjs/xterm.js) ⭐ 21,248 | 🐛 286 | 🌐 TypeScript | 📅 2026-09-13 - Playwright is used to run cross-browser integration tests.
+* [VS Code](https://github.com/microsoft/vscode) ⭐ 193,370 | 🐛 21,339 | 🌐 TypeScript | 📅 2026-10-03 - Playwright is used to run cross-browser tests on their web builds.
+* [TypeScript](https://github.com/microsoft/TypeScript) ⭐ 111,314 | 🐛 5,052 | 🌐 Go | 📅 2026-10-03 - Playwright is used to test TypeScript.js across browsers.
+* [xterm.js](https://github.com/xtermjs/xterm.js) ⭐ 21,250 | 🐛 286 | 🌐 TypeScript | 📅 2026-09-13 - Playwright is used to run cross-browser integration tests.
 * [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) ⭐ 301 | 🐛 196 | 🌐 JavaScript | 📅 2026-09-29 - Playwright is used to run benchmark tests across browsers.
 * [playwright-examples](https://github.com/microsoft/playwright-examples) ⭐ 140 | 🐛 9 | 🌐 TypeScript | 📅 2025-10-20 - Various testing scenarios with Playwright.
 
@@ -136,7 +136,7 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/mxschmitt/awesome-playwright/blob/main/CONTRIBUTING.md) ⭐ 1,585 | 🐛 1 | 📅 2026-10-02 first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/mxschmitt/awesome-playwright/blob/main/CONTRIBUTING.md) first.
 
 ***
 

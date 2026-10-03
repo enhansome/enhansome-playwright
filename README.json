@@ -1159,7 +1159,7 @@
             "open_issues": 238,
             "owner": "CloakHQ",
             "repo": "CloakBrowser",
-            "stars": 31862,
+            "stars": 31864,
             "topics": [
               "ai-agents",
               "anti-detect",
@@ -1230,10 +1230,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-02T18:50:56Z",
-            "open_issues": 146,
+            "open_issues": 148,
             "owner": "jo-inc",
             "repo": "camofox-browser",
-            "stars": 11369,
+            "stars": 11377,
             "topics": [
               "ai-agent",
               "anti-bot",
@@ -1266,11 +1266,11 @@
             "id": 1237338198,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:10:09Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T03:36:46Z",
+            "open_issues": 3,
             "owner": "feder-cr",
             "repo": "invisible_playwright",
-            "stars": 2993,
+            "stars": 2996,
             "topics": [
               "akamai",
               "antibot",
@@ -1349,7 +1349,7 @@
             "open_issues": 19,
             "owner": "figranium",
             "repo": "figranium",
-            "stars": 752,
+            "stars": 754,
             "topics": [
               "agentic-tasks",
               "api",
@@ -1446,7 +1446,7 @@
             "open_issues": 0,
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 37766,
+            "stars": 37771,
             "topics": [
               "mcp",
               "playwright"
@@ -1470,7 +1470,7 @@
             "open_issues": 51,
             "owner": "agentrhq",
             "repo": "webcmd",
-            "stars": 2636,
+            "stars": 2637,
             "topics": [
               "ai-agents",
               "browser-automation",
@@ -1904,11 +1904,11 @@
             "id": 41881900,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:46:38Z",
-            "open_issues": 21344,
+            "last_commit": "2026-10-03T04:36:42Z",
+            "open_issues": 21339,
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 193367,
+            "stars": 193370,
             "topics": [
               "editor",
               "electron",
@@ -1931,11 +1931,11 @@
             "id": 20929025,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T00:05:18Z",
-            "open_issues": 5055,
+            "last_commit": "2026-10-03T04:24:16Z",
+            "open_issues": 5052,
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 111313,
+            "stars": 111314,
             "topics": [
               "javascript",
               "language",
@@ -1961,7 +1961,7 @@
             "open_issues": 286,
             "owner": "xtermjs",
             "repo": "xterm.js",
-            "stars": 21248,
+            "stars": 21250,
             "topics": [
               "console",
               "development",
@@ -2035,7 +2035,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:48:45.638Z",
+    "last_updated": "2026-10-03T05:01:14.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, utils and projects using Playwright",
@@ -2047,7 +2047,7 @@
       "open_issues": 1,
       "owner": "mxschmitt",
       "repo": "awesome-playwright",
-      "stars": 1585,
+      "stars": 1586,
       "topics": [
         "awesome",
         "awesome-list",
